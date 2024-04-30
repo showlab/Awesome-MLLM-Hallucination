@@ -1,4 +1,14 @@
 # Awesome MLLM Hallucination [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) <!-- omit in toc -->
+
+### [Hallucination of Multimodal Large Language Models: A Survey](https://arxiv.org/abs/2404.18930)
+### :star: News! We have released a comprehensive survey of MLLM hallucination.
+
+<p align="center">
+  <img src="assets/tax.png" alt="TAX" style="display: block; margin: 0 auto;" />
+</p>
+
+---
+
 This is a repository for organizing papres, codes and other resources related to hallucination of Multimodal Large Language Models (MLLM), or called Large Vision-Language Models (LVLM).
 
 Hallucination in LLM usually refers to the phenomenon that the generated content is nonsensical or unfaithful to the provided source content, such as violation of input instruction, or containing factual errors, etc.
@@ -20,9 +30,14 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 
 
 ## Table of Contents <!-- omit in toc -->
+- [Hallucination Survey](#hallucination-survey)
 - [Hallucination Benchmarks](#hallucination-benchmarks)
 - [Hallucination Mitigation](#hallucination-mitigation)
 
+
+### Hallucination Survey
++ [Hallucination of Multimodal Large Language Models: A Survey](https://arxiv.org/abs/2404.18930) (Apr. 30, 2024)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.18930)
 
 
 ### Hallucination Benchmarks 
