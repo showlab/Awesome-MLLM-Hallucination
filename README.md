@@ -18,7 +18,7 @@ The community has been constantly making progress on analyzing, detecting, and m
 #### :books: How to read?
 The main contribution of a specific paper is proposing either a new hallucination benchmark (metric) or proposing a hallucination mitigation method.
 The analysis and detection of hallucination are only part of the whole paper, serving as the basis of evaluation and mitigation.
-Therefore, we divide the paper into two categories: **hallucination evaluation** and **hallucination mitigation**.
+Therefore, we divide the papers into two categories: **hallucination evaluation & analysis ** and **hallucination mitigation**.
 In each category, the paper are listd in an order **from new to old**.
 Note that there might be some duplicated papers in the two categories. Those papers contain both evaluation benchmark and mitigation method.
 
@@ -31,7 +31,7 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 
 ## Table of Contents <!-- omit in toc -->
 - [Hallucination Survey](#hallucination-survey)
-- [Hallucination Evaluation & Analysis ](#hallucination-evaluation-&-analysis)
+- [Hallucination Evaluation & Analysis ](#hallucination-evaluation--analysis)
 - [Hallucination Mitigation](#hallucination-mitigation)
 
 
