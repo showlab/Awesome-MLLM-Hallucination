@@ -31,7 +31,7 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 
 ## Table of Contents <!-- omit in toc -->
 - [Hallucination Survey](#hallucination-survey)
-- [Hallucination Benchmarks](#hallucination-benchmarks)
+- [Hallucination Evaluation & Analysis ](#hallucination-evaluation-&-analysis)
 - [Hallucination Mitigation](#hallucination-mitigation)
 
 
@@ -40,7 +40,33 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.18930)
 
 
-### Hallucination Benchmarks 
+### Hallucination Evaluation & Analysis 
+
++ **VideoHallucer** [VideoHallucer: Evaluating Intrinsic and Extrinsic Hallucinations in Large Video-Language Models ](https://arxiv.org/abs/2406.16338) (Jun. 24, 2024)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.16338)
+  [![Star](https://img.shields.io/github/stars/patrick-tssn/VideoHallucer.svg?style=social&label=Star)](https://github.com/patrick-tssn/VideoHallucer)
+
++ **HQHBench** [Evaluating the Quality of Hallucination Benchmarks for Large Vision-Language Models](https://arxiv.org/abs/2406.17115) (Jun. 24, 2024)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.17115)
+  [![Star](https://img.shields.io/github/stars/HQHBench/HQHBench.svg?style=social&label=Star)](https://github.com/HQHBench/HQHBench)
+
++ [Does Object Grounding Really Reduce Hallucination of Large Vision-Language Models?](https://arxiv.org/abs/2406.14492v1) (Jun. 20, 2024)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.14492v1)
+
++ **VGA** [VGA: Vision GUI Assistant -- Minimizing Hallucinations through Image-Centric Fine-Tuning](https://arxiv.org/abs/2406.14056) (Jun. 20, 2024)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.14056)
+
++ [Do More Details Always Introduce More Hallucinations in LVLM-based Image Captioning?](https://arxiv.org/abs/2406.12663v1) (Jun. 18, 2024)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.12663v1)
+
++ **MFC-Bench** [MFC-Bench: Benchmarking Multimodal Fact-Checking with Large Vision-Language Models](https://arxiv.org/abs/2406.11288) (Jun. 17, 2024)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.11288)
+
++ **AutoHallusion** [AUTOHALLUSION: Automatic Generation of Hallucination Benchmarks for Vision-Language Models](https://arxiv.org/abs/2406.10900v1) (Jun. 16, 2024)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.10900v1)
+
++ **Med-HallMark** [Detecting and Evaluating Medical Hallucinations in Large Vision Language Models](https://arxiv.org/abs/2406.10185) (Jun. 14, 2024)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.10185)
 
 + **MetaToken** [MetaToken: Detecting Hallucination in Image Descriptions by Meta Classification](https://arxiv.org/abs/2405.19186) (May. 29, 2024)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.19186)
@@ -153,6 +179,13 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 
 
 ### Hallucination Mitigation 
+
++ **AGLA** [AGLA: Mitigating Object Hallucinations in Large Vision-Language Models with Assembly of Global and Local Attention](https://arxiv.org/abs/2406.12718) (Jun. 18, 2024)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.12718)
+  [![Star](https://img.shields.io/github/stars/Lackel/AGLA.svg?style=social&label=Star)](https://github.com/Lackel/AGLA)
+
++ **MedThink** [MedThink: Inducing Medical Large-scale Visual Language Models to Hallucinate Less by Thinking More](https://arxiv.org/abs/2406.11451) (Jun. 17, 2024)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.11451)
 
 + **CODE** [CODE: Contrasting Self-generated Description to Combat Hallucination in Large Multi-modal Models](https://arxiv.org/abs/2406.01920v1) (Jun. 04, 2024)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.01920v1)
