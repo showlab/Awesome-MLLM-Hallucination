@@ -41,6 +41,13 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 
 
 ### Hallucination Evaluation & Analysis 
++ **Pfram** [Understanding Multimodal Hallucination with Parameter-Free Representation Alignment](https://arxiv.org/abs/2409.01151) (Sep. 02, 2024)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.01151)
+  [![Star](https://img.shields.io/github/stars/yellow-binary-tree/Pfram.svg?style=social&label=Star)](https://github.com/yellow-binary-tree/Pfram)
+
++ [Pre-Training Multimodal Hallucination Detectors with Corrupted Grounding Data](https://arxiv.org/abs/2409.00238) (Aug. 30, 2024)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.00238)
+
 + **Reefknot** [Reefknot: A Comprehensive Benchmark for Relation Hallucination Evaluation, Analysis and Mitigation in Multimodal Large Language Models](https://arxiv.org/abs/2408.09429) (Aug. 18, 2024)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.09429)
 
@@ -199,6 +206,17 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 
 
 ### Hallucination Mitigation 
++ **MVP** [Look, Compare, Decide: Alleviating Hallucination in Large Vision-Language Models via Multi-View Multi-Path Reasoning](https://arxiv.org/abs/2408.17150) (Aug. 30, 2024)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.17150)
+  [![Star](https://img.shields.io/github/stars/GasolSun36/MVP.svg?style=social&label=Star)](https://github.com/GasolSun36/MVP)
+
++ **ConVis** [Contrastive Decoding with Hallucination Visualization for Mitigating Hallucinations in Multimodal Large Language Models](https://arxiv.org/abs/2408.13906) (Aug. 25, 2024)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.13906)
+  [![Star](https://img.shields.io/github/stars/yejipark-m/ConVis.svg?style=social&label=Star)](https://github.com/yejipark-m/ConVis)
+
++ **CLIP-DPO** [Vision-Language Models as a Source of Preference for Fixing Hallucinations in LVLMs](https://www.arxiv.org/abs/2408.10433) (Aug. 19, 2024)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://www.arxiv.org/abs/2408.10433)
+
 + **SID** [Self-Introspective Decoding: Alleviating Hallucinations for Large Vision-Language Models](https://www.arxiv.org/abs/2408.02032) (Aug. 04, 2024)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://www.arxiv.org/abs/2408.02032)
   [![Star](https://img.shields.io/github/stars/huofushuo/SID.svg?style=social&label=Star)](https://github.com/huofushuo/SID)
