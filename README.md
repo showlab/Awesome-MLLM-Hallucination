@@ -41,6 +41,19 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 
 
 ### Hallucination Evaluation & Analysis 
++ **EventHallusion** [Diagnosing Event Hallucinations in Video LLMs](https://arxiv.org/abs/2409.16597) (Sep. 25, 2024)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.16597)
+  [![Star](https://img.shields.io/github/stars/Stevetich/EventHallusion.svg?style=social&label=Star)](https://github.com/Stevetich/EventHallusion)
+
++ **FIHA** [Autonomous Hallucination Evaluation in Vision-Language Models with Davidson Scene Graphs](https://arxiv.org/abs/2409.13612) (Sep. 20, 2024)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.13612)
+
++ **QL-Bench** [Explore the Hallucination on Low-level Perception for MLLMs](https://www.arxiv.org/abs/2409.09748) (Sep. 15, 2024)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://www.arxiv.org/abs/2409.09748)
+
++ **ODE** [Open-Set Evaluation of Hallucinations in Multimodal Large Language Models](https://web3.arxiv.org/abs/2409.09318) (Sep. 14, 2024)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://web3.arxiv.org/abs/2409.09318)
+
 + **Pfram** [Understanding Multimodal Hallucination with Parameter-Free Representation Alignment](https://arxiv.org/abs/2409.01151) (Sep. 02, 2024)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.01151)
   [![Star](https://img.shields.io/github/stars/yellow-binary-tree/Pfram.svg?style=social&label=Star)](https://github.com/yellow-binary-tree/Pfram)
@@ -206,6 +219,15 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 
 
 ### Hallucination Mitigation 
++ **HELPD** [Mitigating Hallucination of LVLMs by Hierarchical Feedback Learning with Vision-enhanced Penalty Decoding](https://www.arxiv.org/abs/2409.20429) (Sep. 30, 2024)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://www.arxiv.org/abs/2409.20429)
+
++ **Dentist** [A Unified Hallucination Mitigation Framework for Large Vision-Language Models](https://www.arxiv.org/abs/2409.16494) (Sep. 22, TMLR, 2024)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://www.arxiv.org/abs/2409.16494)
+
++ **PACU** [Effectively Enhancing Vision Language Large Models by Prompt Augmentation and Caption Utilization](https://arxiv.org/abs/2409.14484) (Sep. 22, 2024)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.14484)
+
 + **RBD** [Mitigating Hallucination in Visual-Language Models via Re-Balancing Contrastive Decoding](https://arxiv.org/abs/2409.06485) (Sep. 10, 2024)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.06485)
 
