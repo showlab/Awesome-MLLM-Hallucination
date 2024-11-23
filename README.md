@@ -41,6 +41,31 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 
 
 ### Hallucination Evaluation & Analysis 
++ **VL-Uncertainty** [Detecting Hallucination in Large Vision-Language Model via Uncertainty Estimation](https://arxiv.org/abs/2411.11919) (Nov. 18, 2024)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.11919)
+
++ **H-POPE** [Hierarchical Polling-based Probing Evaluation of Hallucinations in Large Vision-Language Models](https://arxiv.org/abs/2411.04077) (Nov. 06, 2024)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.04077)
+
++ **Tri-He** [Unified Triplet-Level Hallucination Evaluation for Large Vision-Language Models](https://arxiv.org/abs/2410.23114) (Oct. 30, 2024)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.23114)
+  [![Star](https://img.shields.io/github/stars/wujunjie1998/Tri-HE.svg?style=social&label=Star)](https://github.com/wujunjie1998/Tri-HE)
+
++ **AVHBench** [A Cross-Modal Hallucination Benchmark for Audio-Visual Large Language Models](https://arxiv.org/abs/2410.18325) (Oct. 23, 2024)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.18325)
+
++ **CMM** [The Curse of Multi-Modalities: Evaluating Hallucinations of Large Multimodal Models across Language, Visual, and Audio](https://arxiv.org/abs/2410.12787) (Oct. 16, 2024)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.12787)
+  [![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/CMM.svg?style=social&label=Star)](https://github.com/DAMO-NLP-SG/CMM)
+
++ **VHExpansion** [Automatically Generating Visual Hallucination Test Cases for Multimodal Large Language Models](https://arxiv.org/abs/2410.11242) (Oct. 15, 2024)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.11242)
+  [![Star](https://img.shields.io/github/stars/lycheeefish/VHExpansion.svg?style=social&label=Star)](https://github.com/lycheeefish/VHExpansion)
+
++ **LongHalQA** [Long-Context Hallucination Evaluation for MultiModal Large Language Models](https://arxiv.org/abs/2410.09962) (Oct. 13, 2024)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.09962)
+  [![Star](https://img.shields.io/github/stars/hanqiu-hq/LongHalQA.svg?style=social&label=Star)](https://github.com/hanqiu-hq/LongHalQA)
+
 + **EventHallusion** [Diagnosing Event Hallucinations in Video LLMs](https://arxiv.org/abs/2409.16597) (Sep. 25, 2024)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.16597)
   [![Star](https://img.shields.io/github/stars/Stevetich/EventHallusion.svg?style=social&label=Star)](https://github.com/Stevetich/EventHallusion)
@@ -219,9 +244,68 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 
 
 ### Hallucination Mitigation 
-+ **MemVR** [Look Twice Before You Answer: Memory-Space Visual Retracing for Hallucination Mitigation in Multimodal Large Language Models](https://arxiv.org/abs/2410.03577) (Oct. 7, 2024)
++ **SIG** [Looking Beyond Text: Reducing Language bias in Large Vision-Language Models via Multimodal Dual-Attention and Soft-Image Guidance](https://arxiv.org/abs/2411.14279) (Nov. 21, 2024)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.14279)
+
++ **CATCH** [Complementary Adaptive Token-level Contrastive Decoding to Mitigate Hallucinations in LVLMs](https://arxiv.org/abs/2411.12713) (Nov. 19, 2024)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.12713)
+
++ **VIC** [Thinking Before Looking: Improving Multimodal LLM Reasoning via Mitigating Visual Hallucination](https://arxiv.org/abs/2411.12591) (Nov. 15, 2024)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.12591)
+  [![Star](https://img.shields.io/github/stars/Terry-Xu-666/visual_inference_chain.svg?style=social&label=Star)](https://github.com/Terry-Xu-666/visual_inference_chain)
+
++ **EAH** [Seeing Clearly by Layer Two: Enhancing Attention Heads to Alleviate Hallucination in LVLMs](https://arxiv.org/abs/2411.09968) (Nov. 15, 2024)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.09968)
+
++ **HDPO** [Mitigating Hallucination in Multimodal Large Language Model via Hallucination-targeted Direct Preference Optimization](https://arxiv.org/abs/2411.10436) (Nov. 15, 2024)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.10436)
+
++ **V-DPO** [Mitigating Hallucination in Large Vision Language Models via Vision-Guided Direct Preference Optimization](https://arxiv.org/abs/2411.02712) (Nov. 05, EMNLP 2024)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.02712)
+  [![Star](https://img.shields.io/github/stars/YuxiXie/V-DPO.svg?style=social&label=Star)](https://github.com/YuxiXie/V-DPO)
+
++ **VTI** [Reducing Hallucinations in Vision-Language Models via Latent Space Steering](https://arxiv.org/abs/2410.15778) (Oct. 21, 2024)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.15778)
+
++ **CCA** [Mitigating Object Hallucination via Concentric Causal Attention](https://arxiv.org/abs/2410.15926) (Oct. 21, 2024)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.15926)
+  [![Star](https://img.shields.io/github/stars/xing0047/cca-llava.svg?style=social&label=Star)](https://github.com/xing0047/cca-llava)
+
++ **SGD** [Mitigating Hallucinations in Large Vision-Language Models via Summary-Guided Decoding](https://arxiv.org/abs/2410.13321) (Oct. 17, 2024)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.13321)
+
++ **MagPrompt** [Magnifier Prompt: Tackling Multimodal Hallucination via Extremely Simple Instructions](https://arxiv.org/abs/2410.11701) (Oct. 15, 2024)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.11701)
+
++ **DeCo** [MLLM can see? Dynamic Correction Decoding for Hallucination Mitigation](https://www.arxiv.org/abs/2410.11779) (Oct. 15, 2024)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://www.arxiv.org/abs/2410.11779)
+  [![Star](https://img.shields.io/github/stars/zjunlp/DeCo.svg?style=social&label=Star)](https://github.com/zjunlp/DeCo)
+
++ **NoVo** [Norm Voting off Hallucinations with Attention Heads in Large Language Models](https://arxiv.org/abs/2410.08970) (Oct. 11, 2024)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.08970)
+
++ **PATCH** [From Pixels to Tokens: Revisiting Object Hallucinations in Large Vision-Language Models](https://arxiv.org/abs/2410.06795) (Oct. 09, 2024)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.06795)
+
++ **CausalMM** [Mitigating Modality Prior-Induced Hallucinations in Multimodal Large Language Models via Deciphering Attention Causality](https://arxiv.org/abs/2410.04780) (Oct. 07, 2024)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.04780)
+  [![Star](https://img.shields.io/github/stars/The-Martyr/CausalMM.svg?style=social&label=Star)](https://github.com/The-Martyr/CausalMM)
+
++ **DAMRO** [Dive into the Attention Mechanism of LVLM to Reduce Object Hallucination](https://arxiv.org/abs/2410.04514) (Oct. 06, EMNLP 2024)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.04514)
+
++ **MemVR** [Look Twice Before You Answer: Memory-Space Visual Retracing for Hallucination Mitigation in Multimodal Large Language Models](https://arxiv.org/abs/2410.03577) (Oct. 07, 2024)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.03577)
   [![Star](https://img.shields.io/github/stars/1zhou-Wang/MemVR.svg?style=social&label=Star)](https://github.com/1zhou-Wang/MemVR)
+
++ **OHD-Caps** [Investigating and Mitigating Object Hallucinations in Pretrained Vision-Language (CLIP) Models](https://arxiv.org/abs/2410.03176v1) (Oct. 04, EMNLP 2024)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.03176v1)
+  [![Star](https://img.shields.io/github/stars/Yufang-Liu/clip_hallucination.svg?style=social&label=Star)](https://github.com/Yufang-Liu/clip_hallucination)
+
++ **VL-Interp** [Interpreting and Editing Vision-Language Representations to Mitigate Hallucinations](https://arxiv.org/abs/2410.02762) (Oct. 03, 2024)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.02762)
+  [![Star](https://img.shields.io/github/stars/nickjiang2378/vl-interp.svg?style=social&label=Star)](https://github.com/nickjiang2378/vl-interp)
+
   
 + **HELPD** [Mitigating Hallucination of LVLMs by Hierarchical Feedback Learning with Vision-enhanced Penalty Decoding](https://www.arxiv.org/abs/2409.20429) (Sep. 30, 2024)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://www.arxiv.org/abs/2409.20429)
