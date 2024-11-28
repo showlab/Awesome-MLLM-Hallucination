@@ -41,6 +41,13 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 
 
 ### Hallucination Evaluation & Analysis 
++ **VidHal** [Benchmarking Temporal Hallucinations in Vision LLMs](https://www.arxiv.org/abs/2411.16771) (Nov. 25, 2024)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://www.arxiv.org/abs/2411.16771)
+  [![Star](https://img.shields.io/github/stars/Lookuz/VidHal.svg?style=social&label=Star)](https://github.com/Lookuz/VidHal)
+
++ [Devils in Middle Layers of Large Vision-Language Models: Interpreting, Detecting and Mitigating Object Hallucinations via Attention Lens](https://www.arxiv.org/abs/2411.16724) (Nov. 23, 2024)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://www.arxiv.org/abs/2411.16724)
+
 + **VL-Uncertainty** [Detecting Hallucination in Large Vision-Language Model via Uncertainty Estimation](https://arxiv.org/abs/2411.11919) (Nov. 18, 2024)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.11919)
 
