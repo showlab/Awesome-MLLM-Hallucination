@@ -50,6 +50,7 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 
 + **VL-Uncertainty** [Detecting Hallucination in Large Vision-Language Model via Uncertainty Estimation](https://arxiv.org/abs/2411.11919) (Nov. 18, 2024)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.11919)
+  [![Star](https://img.shields.io/github/stars/Ruiyang-061X/VL-Uncertainty.svg?style=social&label=Star)](https://github.com/Ruiyang-061X/VL-Uncertainty)
 
 + **H-POPE** [Hierarchical Polling-based Probing Evaluation of Hallucinations in Large Vision-Language Models](https://arxiv.org/abs/2411.04077) (Nov. 06, 2024)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.04077)
