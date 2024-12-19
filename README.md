@@ -93,6 +93,10 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 + **FIHA** [Autonomous Hallucination Evaluation in Vision-Language Models with Davidson Scene Graphs](https://arxiv.org/abs/2409.13612) (Sep. 20, 2024)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.13612)
 
++ **CAST** [CAST: Cross-modal Alignment Similarity Test for Vision Language Models](https://arxiv.org/abs/2409.11007) (Sep. 17, 2024)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.11007)
+  [![Star](https://img.shields.io/github/stars/gautierdag/cast.svg?style=social&label=Star)](https://github.com/gautierdag/cast)
+
 + **QL-Bench** [Explore the Hallucination on Low-level Perception for MLLMs](https://www.arxiv.org/abs/2409.09748) (Sep. 15, 2024)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://www.arxiv.org/abs/2409.09748)
 
