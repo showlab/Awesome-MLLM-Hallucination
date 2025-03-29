@@ -39,6 +39,9 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 + [Hallucination of Multimodal Large Language Models: A Survey](https://arxiv.org/abs/2404.18930) (Apr. 30, 2024)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.18930)
 
++ [A Survey on Hallucination in Large Vision-Language Models](https://arxiv.org/abs/2402.00253) (Feb. 01, 2024)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.00253)
+
 
 ### Hallucination Evaluation & Analysis 
 + **UNSCENE** [MASH-VLM:Mitigating Action-Scene Hallucination in Video-LLMs through Disentangled Spatial-Temporal Representations](https://arxiv.org/abs/2503.15871) (Mar. 20, 2025, CVPR 2025)
@@ -365,9 +368,6 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.08317)
   [![Star](https://img.shields.io/github/stars/jwu114/CAP.svg?style=social&label=Star)](https://github.com/jwu114/CAP)
 
-+ **FilterRAG** [Zero-Shot Informed Retrieval-Augmented Generation to Mitigate Hallucinations in VQA](https://arxiv.org/abs/2502.18536) (Feb. 25, 2025)
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.18536)
-
 + **DeGF** [Self-Correcting Decoding with Generative Feedback for Mitigating Hallucinations in Large Vision-Language Models](https://arxiv.org/abs/2502.06130) (Feb. 10, 2025, ICLR 2025)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.06130)
   [![Star](https://img.shields.io/github/stars/zhangce01/DeGF.svg?style=social&label=Star)](https://github.com/zhangce01/DeGF)
@@ -469,9 +469,6 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 + **DeCo** [MLLM can see? Dynamic Correction Decoding for Hallucination Mitigation](https://www.arxiv.org/abs/2410.11779) (Oct. 15, 2024)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://www.arxiv.org/abs/2410.11779)
   [![Star](https://img.shields.io/github/stars/zjunlp/DeCo.svg?style=social&label=Star)](https://github.com/zjunlp/DeCo)
-
-+ **NoVo** [Norm Voting off Hallucinations with Attention Heads in Large Language Models](https://arxiv.org/abs/2410.08970) (Oct. 11, 2024)
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.08970)
 
 + **PATCH** [From Pixels to Tokens: Revisiting Object Hallucinations in Large Vision-Language Models](https://arxiv.org/abs/2410.06795) (Oct. 09, 2024)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.06795)
