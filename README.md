@@ -1,7 +1,23 @@
 # Awesome MLLM Hallucination [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) <!-- omit in toc -->
 
 ## [Hallucination of Multimodal Large Language Models: A Survey](https://arxiv.org/abs/2404.18930)
-### :star: News! We have released a comprehensive survey of MLLM hallucination.
+### :star: News! The Latest & Most Comprehensive Survey on MLLM Hallucination Just Got Better! 
+
+Thrilled to unveil a **major update** to our landmark survey on MLLM (LVLM) Hallucination—packed with groundbreaking insights from 2024-2025! 🔥🔥🔥
+
+[Paper (40 pages, 228 references)](https://arxiv.org/abs/2404.18930). This is your ultimate guide to navigating the fast-evolving landscape of MLLM hallucination. Whether you’re a researcher or practitioner, **bookmark this handbook**!
+
+🔍 Key observations in the update:
+
+✅ There are **deeper yet diverse analysis** on the root cause of hallucination.
+
+✅ **Training-free** mitigating solutions are getting popular, probably thanks to its resource-friendly property.
+
+✅ **Contrastive decoding** becomes a cornerstone technique! Various ideas have been developed based on it.
+
+✅ **RL-based methods** is gaining momentum, and we expect more methods on this track in the near future.
+
+✅ More fresh angles to mitigate hallucination: Visual prompting, RAG, rationale reasoning, generative feedback, and so on.
 
 <p align="center">
   <img src="assets/tax.png" alt="TAX" style="display: block; margin: 0 auto;" />
