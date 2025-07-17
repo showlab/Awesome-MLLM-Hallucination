@@ -320,6 +320,10 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 
 
 ### Hallucination Mitigation 
++ **LPOI** [LPOI: Listwise Preference Optimization for Vision Language Models](https://arxiv.org/abs/2505.21061) (May. 27, 2025, ACL 2025)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.21061)
+  [![Star](https://img.shields.io/github/stars/fatemehpesaran310/lpoi.svg?style=social&label=Star)](https://github.com/fatemehpesaran310/lpoi)
+
 + **PaMi-VDPO** [PaMi-VDPO: Mitigating Video Hallucinations by Prompt-Aware Multi-Instance Video Preference Learning](https://arxiv.org/abs/2504.05810) (Apr. 08, 2025)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.05810)
 
