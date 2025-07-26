@@ -320,6 +320,10 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 
 
 ### Hallucination Mitigation 
++ **SENTINEL** [Mitigating Object Hallucinations via Sentence-Level Early Intervention](https://arxiv.org/abs/2507.12455) (Jul. 21, 2025, ICCV 2025)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.12455)
+  [![Star](https://img.shields.io/github/stars/fatemehpesaran310/lpoi.svg?style=social&label=Star)](https://github.com/pspdada/SENTINEL)
+
 + **LPOI** [LPOI: Listwise Preference Optimization for Vision Language Models](https://arxiv.org/abs/2505.21061) (May. 27, 2025, ACL 2025)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.21061)
   [![Star](https://img.shields.io/github/stars/fatemehpesaran310/lpoi.svg?style=social&label=Star)](https://github.com/fatemehpesaran310/lpoi)
