@@ -49,6 +49,7 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 - [Hallucination Survey](#hallucination-survey)
 - [Hallucination Evaluation & Analysis ](#hallucination-evaluation--analysis)
 - [Hallucination Mitigation](#hallucination-mitigation)
+- [CCHub](https://github.com/Moresl/cchub) - A desktop control panel for the Claude Code / Codex / Gemini CLI ecosystem. Manage MCP servers, config profiles, agent skills, CLAUDE.md, hooks, and workflow templates from a single Tauri app (Windows / macOS / Linux).
 
 
 ### Hallucination Survey
