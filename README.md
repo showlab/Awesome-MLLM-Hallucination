@@ -60,6 +60,10 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 
 
 ### Hallucination Evaluation & Analysis
++ **GameplayQA** [GameplayQA: A Benchmarking Framework for Decision-Dense POV-Synced Multi-Video Understanding of 3D Virtual Agents](https://arxiv.org/abs/2603.24329) (Mar. 2026, ACL 2026)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.24329)
+  [![Star](https://img.shields.io/github/stars/HATS-ICT/GameplayQA.svg?style=social&label=Star)](https://github.com/HATS-ICT/GameplayQA)
+
 + **HumbleBench** [Measuring Epistemic Humility in Multimodal Large Language Models] (Sep. 11, 2025)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2509.09658)
   [![Star](https://img.shields.io/github/stars/abzb1/HumbleBench.svg?style=social&label=Star)](https://github.com/maifoundations/HumbleBench)
