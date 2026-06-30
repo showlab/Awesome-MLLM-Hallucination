@@ -327,6 +327,9 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 
 
 ### Hallucination Mitigation 
++ **Attend-to-Evidence** [Attend to Evidence: Evidence-Anchored Spatial Attention Supervision for Multimodal RLVR](https://arxiv.org/abs/2605.30912) (May. 29, 2026)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.30912)
+
 + **SENTINEL** [Mitigating Object Hallucinations via Sentence-Level Early Intervention](https://arxiv.org/abs/2507.12455) (Jul. 21, 2025, ICCV 2025)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.12455)
   [![Star](https://img.shields.io/github/stars/fatemehpesaran310/lpoi.svg?style=social&label=Star)](https://github.com/pspdada/SENTINEL)
