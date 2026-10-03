@@ -60,6 +60,9 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 
 
 ### Hallucination Evaluation & Analysis
++ [When Does an Image Determine the Answer? Benchmarking Visual Answerability across Charts and Scenes](https://arxiv.org/abs/2609.34480) (Sep. 28, 2026)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2609.34480)
+
 + **HumbleBench** [Measuring Epistemic Humility in Multimodal Large Language Models] (Sep. 11, 2025)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2509.09658)
   [![Star](https://img.shields.io/github/stars/abzb1/HumbleBench.svg?style=social&label=Star)](https://github.com/maifoundations/HumbleBench)
@@ -694,6 +697,9 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 
 + **IDK-Instruction** [Visually Dehallucinative Instruction Generation: Know What You Don't Know](https://arxiv.org/abs/2402.09717) (Feb. 15, 2024)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.09717)
+
++ **CAP2QA** [Visually Dehallucinative Instruction Generation](https://arxiv.org/abs/2402.08348) (Feb. 13, 2024, ICASSP 2024)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.08348)
 
 + **MARINE** [Mitigating Object Hallucination in Large Vision-Language Models via Classifier-Free Guidance](https://arxiv.org/abs/2402.08680) (Feb. 13, 2024)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.08680)
